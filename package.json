@@ -1,5 +1,5 @@
 {
-  "name": "@visual-art-bk/rchr-utils",
+  "name": "@rchr777/rchr-utils",
   "version": "1.0.0",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
